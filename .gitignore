@@ -1,0 +1,8 @@
+# Rider / Visual Studio
+.idea/
+*.suo
+*.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
